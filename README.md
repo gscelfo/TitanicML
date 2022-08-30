@@ -5,4 +5,6 @@ The aim of the competition is to use machine learning to create a model that pre
 \
 This notebook contains recipies for data elaboration (tackling missing values, categorical variables, etc.) and exploration over different ML models (Random Forests, Gradient Boosted Decision Trees, Support Vector Machines) to find the most appropriate one for this problem.\
 \
-Gradient Boosted Decision Trees provide the best results in term of accuracy (around 80%), whereas a similar outcome is provided also by Kernelized Support Vector Machines after a careful tuning of regularization and kernel width parameters.
+Gradient Boosted Decision Trees provide the best results in term of accuracy (around 80%), whereas a similar outcome is provided also by Kernelized Support Vector Machines after a careful tuning of regularization and kernel width parameters.\
+\
+Train and test datasets are train.csv and test.csv files respectively. The predicted outcome with the chosen best model is saved into submission.csv.
