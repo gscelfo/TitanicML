@@ -7,4 +7,4 @@ This notebook contains recipies for data elaboration (tackling missing values, c
 \
 Gradient Boosted Decision Trees provide the best results in term of accuracy (around 80%), whereas a similar outcome is provided also by Kernelized Support Vector Machines after a careful tuning of regularization and kernel width parameters.\
 \
-Train and test datasets are train.csv and test.csv files respectively. The predicted outcome with the chosen best model is saved into submission.csv. the Jupyter Notebook containing the code is Titanic-MachineLearningFromDisaster.ipynb.
+Train and test datasets are train.csv and test.csv files respectively. The predicted outcome with the chosen best model is saved into submission.csv. The Jupyter Notebook containing the code is Titanic-MachineLearningFromDisaster.ipynb.
